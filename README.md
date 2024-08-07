@@ -8,4 +8,4 @@ One can find all of the source code required for *classifying* various potato di
 
 # DEMO
 
-[screen-capture (4).webm](https://github.com/user-attachments/assets/6fa11cc4-b1d6-4e69-867f-a79743b0f680)
+[screen-capture (4).webm]([https://github.com/user-attachments/assets/6fa11cc4-b1d6-4e69-867f-a79743b0f680](https://github.com/user-attachments/assets/b1f9efae-e7ca-4b87-a8c4-e5649dec7f49))
